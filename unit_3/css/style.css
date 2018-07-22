@@ -13,22 +13,24 @@ body	{
 header	{
 	background-color: #FF8E79;
 	text-align: center;
-	padding: 10px;
+	padding: 20px;
 }
 h1 {
 	color:#ffffff;
 	text-align: center;
+
+nav	{
+	color:ffffff;
+	text-align: center;
+
+}
+
+
 a {
 	color:241411;
 	text-decoration: none;
-
 }
 
-nav a {
-	color:#cccccc;
-	font-style:italic;
-	margin-right: 10px;
-}
 
 img	{
 	width: 100%
