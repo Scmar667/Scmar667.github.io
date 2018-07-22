@@ -17,10 +17,11 @@ header	{
 }
 h1 {
 	color:#ffffff;
+	text-align: center;
 a {
 	color:241411;
 	text-decoration: none;
-	text-align: center;
+
 }
 
 nav a {
