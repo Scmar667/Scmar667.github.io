@@ -53,9 +53,9 @@ main: {
 	padding: 20px;
 }
 
-aside:	{
-	color: #021329;
-	padding-left: 20px;
+ol	{
+	color: #021329
+	padding-left:20px;
 	text-align: center;
 	font-weight: bold;
 }
