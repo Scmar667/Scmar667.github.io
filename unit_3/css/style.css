@@ -25,7 +25,6 @@ nav	{
 
 }
 
-
 a {
 	color:241411;
 	text-decoration: none;
@@ -40,6 +39,11 @@ main: {
 	padding: 20px;
 }
 
+h2, h3, h4	{
+	margin: 20px;
+
+}
+
 ul,ol:	{
 	padding-left: 20px;
 
@@ -50,8 +54,7 @@ aside:	{
 }	
 footer	{
 	background-color: 049F7C
-	padding:20px
-	text-align: ;
+	padding:20px center;
 }
 
 
