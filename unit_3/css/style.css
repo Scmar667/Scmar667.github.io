@@ -34,7 +34,7 @@ h2 {
 h3	{
 	color:#021329;
 	text-align: center;
-	text-decoration: italic;
+	font-style: italic;
 }
 
 h4	{
@@ -53,15 +53,13 @@ main: {
 	padding: 20px;
 }
 
-ul,ol:	{
+ul:	{
+	color: #021329;
 	padding-left: 20px;
 	text-align: center;
-
+	font-weight: bold;
 }
 
-aside:	{
-	float: #right;
-}
 footer	{
 	background-color: 049F7C;
 	padding: 20px;
