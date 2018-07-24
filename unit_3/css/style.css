@@ -1,5 +1,6 @@
-@import url('https://fonts.googleapis.com/css?family=Dosis');
+@import url('https://fonts.googleapis.com/css?family=Jockey+One');
 @import url('https://fonts.googleapis.com/css?family=Dosis|Nanum+Gothic');
+@import url('https://fonts.googleapis.com/css?family=Kreon:300');
 
 *	{
 
@@ -18,7 +19,7 @@ body	{
 
 header	{
 	background-color: #FF8E79;
-	font-family:'Dosis', sans-serif;
+	font-family: 'Kreon', serif;
 	text-align: center;
 	padding: 20px;
 }
@@ -35,7 +36,7 @@ a {
 h2 {
 	color:#021329;
 	text-align: center;
-	font-family: 'Nanum Gothic', sans-serif;
+	font-family: 'Kreon', serif;
 }
 
 h3	{
