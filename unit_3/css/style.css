@@ -21,7 +21,6 @@ header	{
 	background-color: #FF8E79;
 	font-family: 'Kreon', serif;
 	text-align: center;
-	margin-right: 5px;
 	padding: 20px;
 }
 
@@ -29,9 +28,12 @@ img	{
 	width: 100%
 }
 
-a {
-	color: #1F3E53;
-	text-decoration: none;
+nav	{
+	background-color: #FF8E79;
+	font-family: 'Kreon', serif;
+	text-align: center;
+	margin-right: 20px;
+	padding: 20px
 }
 
 h2 {
