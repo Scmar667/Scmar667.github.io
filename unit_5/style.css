@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Jockey+One');
+@import url('https://fonts.googleapis.com/css?family=Dosis|Nanum+Gothic');
+@import url('https://fonts.googleapis.com/css?family=Kreon:300');
+
+
+body	{
+	font-family: 'Times', serif;
+	color: #021329;
+}
+header {
+	background-color: #FFED74;
+	font-family: 'Times', serif;
+	font-size: 30px;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+nav	{ background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+article	{
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+aside	{
+	background-color: #FFC675;
+	border: 1px black solid;
+	padding: 20px;
+}
+footer	{
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+	
+}
+
+
+
+
