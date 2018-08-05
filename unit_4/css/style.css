@@ -4,32 +4,37 @@
 
 
 body	{
-	font-family: 'Kreon', serif;
-	font-size: 20px;
-	font-weight: normal;
+	font-family: 'Times', serif;
 	color: #021329;
-	line-height: 1.2;
 }
 header {
 	background-color: #FFED74;
-	font-family: 'Kreon', serif;
+	font-family: 'Times', serif;
 	font-size: 30px;
-	font-weight: bold;
+	border: 1px black solid;
+	padding: 20px;
 }
 
 nav	{ background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
 }
 
 article	{
 	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
 }
 aside	{
 	background-color: #FFC675;
+	border: 1px black solid;
+	padding: 20px;
 }
 footer	{
-	color: #1F3E53;
 	background-color: #FF957E;
+	border: 1px black solid;
 	padding: 20px;
+	
 }
 
 
