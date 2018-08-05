@@ -20,6 +20,8 @@ body	{
 header	{
 	background-color: #FF8E79;
 	font-family: 'Kreon', serif;
+	font-size: 30px;
+	font-weight: bold;
 	text-align: center;
 	padding: 20px;
 }
