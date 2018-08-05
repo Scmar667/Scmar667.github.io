@@ -2,11 +2,6 @@
 @import url('https://fonts.googleapis.com/css?family=Dosis|Nanum+Gothic');
 @import url('https://fonts.googleapis.com/css?family=Kreon:300');
 
-*	{
-
-	padding: 0;
-	margin: 0;
-}
 
 body	{
 	font-family: 'Kreon', serif;
@@ -15,21 +10,25 @@ body	{
 	color: #021329;
 	line-height: 1.2;
 }
-
-
-header	{
-	background-color: #FF8E79;
+head {
+	background-color: #FFED74;
 	font-family: 'Kreon', serif;
 	font-size: 30px;
 	font-weight: bold;
-	text-align: center;
-	padding: 20px;
 }
 
+nav	{ background-color: #E8C66A;
+}
 
+article	{
+	background-color: #E89C6C;
+}
+aside	{
+	background-color: #FFC675;
+}
 footer	{
 	color: #1F3E53;
-	background-color: #FF8E79;
+	background-color: #FF957E;
 	padding: 20px;
 }
 
