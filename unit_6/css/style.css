@@ -47,13 +47,7 @@ aside	{
 	padding: 20px;
 }
 
-.clearfix:after{
-	visibility: hidden;
-	display: block;
-	font-size: 0;
-	content: " ";
-	clear: both;
-}
+
 
 #two_column	{
 	background-color: #FFB7CF;
