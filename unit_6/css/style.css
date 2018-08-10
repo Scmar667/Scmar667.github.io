@@ -18,9 +18,20 @@ header {
 	padding: 20px;
 }
 
-nav	{ background-color: #E8C66A;
+nav	{ 
+	background-color: #E8C66A;
 	border: 1px black solid;
 	padding: 20px;
+}
+
+nav a {
+	font-family: 'Times', serif;
+	color: #021329;
+	padding: 20px
+	font-size: .8em;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 2px;
 }
 
 article	{
