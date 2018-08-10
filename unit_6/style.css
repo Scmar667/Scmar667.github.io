@@ -1,7 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Jockey+One');
 @import url('https://fonts.googleapis.com/css?family=Dosis|Nanum+Gothic');
 @import url('https://fonts.googleapis.com/css?family=Kreon:300');
-
+* { 
+	margin:0; padding:0; box-sizing:border-box;
+} 
 
 body	{
 	font-family: 'Times', serif;
@@ -19,7 +21,7 @@ nav	{ background-color: #E8C66A;
 	border: 1px black solid;
 	padding: 20px;
 }
-https://cssreset.com/?dl_id=2
+
 article	{
 	background-color: #E89C6C;
 	border: 1px black solid;
@@ -30,6 +32,25 @@ aside	{
 	border: 1px black solid;
 	padding: 20px;
 }
+
+#two_column	{
+	background-color: #FFB7CF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left {
+	background-color: #E582A2;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#right	{
+	background-color: #E55B88;
+	border: 1px black solid;
+	padding: 20px;
+}
+
 footer	{
 	background-color: #FF957E;
 	border: 1px black solid;
