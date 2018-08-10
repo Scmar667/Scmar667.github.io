@@ -10,13 +10,16 @@ body	{
 	font-family: 'Times', serif;
 	color: #021329;
 }
+
 header {
 	background-color: #FFED74;
 	font-family: 'Times', serif;
 	border: 1px black solid;
 	padding: 20px;
 }
-
+div	{
+	font-size: 40px;
+}
 nav	{ 
 	background-color: #E8C66A;
 	border: 1px black solid;
