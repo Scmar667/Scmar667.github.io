@@ -14,7 +14,7 @@ body	{
 }
 
 header {
-	background-color: #FFED74;	
+	background-color: #9F5C50;	
 	font-size: 30px;
 	font-family: 'Times', serif;
 	border: 1px black solid;
@@ -23,7 +23,7 @@ header {
 
 
 nav	{ 
-	background-color: #E8C66A;
+	background-color: #9F7770;
 	border: 1px black solid;
 	padding: 20px;
 }
@@ -39,12 +39,12 @@ nav a {
 }
 
 article	{
-	background-color: #E89C6C;
+	background-color: #325345;
 	border: 1px black solid;
 	padding: 20px;
 }
 aside	{
-	background-color: #FFC675;
+	background-color: #533732;
 	border: 1px black solid;
 	padding: 20px;
 }
@@ -82,7 +82,7 @@ aside	{
 }
 
 footer	{
-	background-color: #FF957E;
+	background-color: #409F78;
 	border: 1px black solid;
 	padding: 20px;
 	
