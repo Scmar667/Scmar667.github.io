@@ -9,6 +9,7 @@
 body	{
 	font-family: 'Times', serif;
 	color: #021329;
+	padding-bottom: 5px;
 
 }
 
@@ -69,6 +70,7 @@ aside	{
 	padding: 20px;
 	float: left;
 	width: 30%;
+
 }
 
 #right	{
