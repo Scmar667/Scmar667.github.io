@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css?family=Jockey+One');
+@import url('https://fonts.googleapis.com/css?family=Dosis|Nanum+Gothic');
+@import url('https://fonts.googleapis.com/css?family=Kreon:300');
+
+* { 
+	margin:0; padding:0; box-sizing:border-box;
+} 
+
+body	{
+	font-family: 'Times', serif;
+	color: #021329;
+	padding-bottom: 5px;
+
+}
+
+header {
+	background-color: #9F5C50;	
+	font-size: 30px;
+	font-family: 'Times', serif;
+	border: 1px black solid;
+	padding: 20px;
+
+}
+
+
+nav	{ 
+	background-color: #9F7770;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+nav a {
+	font-family: 'Times', serif;
+	color: #021329;
+	padding: 2px
+	font-size: 10px;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+
+article	{
+	background-color: #325345;
+	border: 1px black solid;
+	padding: 20px;
+}
+aside	{
+	background-color: #533732;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+p {
+	margin-bottom: 20px;
+}
+
+.clearfix:after{
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+#two_column	{
+	background-color: #FFB7CF;
+	border: 1px black solid;
+	padding: 20px;
+	background-image: url('../images/donuts.jpg');
+	background-position: center;
+	background-size: cover;
+}
+
+#left {
+	background-color: violet;
+	border: 1px black solid;
+	padding: 20px;
+	float: left;
+	width: 44%;
+
+}
+
+#right	{
+	background-color: pink;
+	border: 1px black solid;
+	padding: 20px;
+	float: right;
+	width: 44%;
+}
+
+footer	{
+	background-color: #409F78;
+	border: 1px black solid;
+	padding: 20px;
+	
+}
+
+img {
+	width: 50%;
+}
+
+
+
+
